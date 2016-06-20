@@ -1,4 +1,12 @@
-# There are two demonstrations (GIF animation) next
+### There are two demonstrations (GIF animation) next
+
+1. pbdR client/server using `pbdZMQ` + `remoter` (+ `getPass` + `sodium`)
+![demo_pbdr_cs_01](./pics/demo_pbdr_cs_01.gif)
+
+
+2. pbdR client/server with MPI clusters using `pbdZMQ` + `remoter` + `pbdCS` (+ `getPass` + `sodium`) + `pbdMPI` + `pbdDMAT` + `pmclust`
+![demo_pbdr_cs_01](./pics/demo_pbdr_cs_02.gif)
+
 
 ### Advantages of pbdR Client/Server
 - No need to setup X11 nor forwarding
@@ -18,11 +26,4 @@
 - Extendable to any out-of-core backend
 - Password protected (masked as well)
 - Encrypted communication (good data policy)
-
-1. pbdR client/server using `pbdZMQ` + `remoter` (+ `getPass` + `sodium`)
-![demo_pbdr_cs_01](./pics/demo_pbdr_cs_01.gif)
-
-
-2. pbdR client/server with MPI clusters using `pbdZMQ` + `remoter` + `pbdCS` (+ `getPass` + `sodium`) + `pbdMPI` + `pbdDMAT` + `pmclust`
-![demo_pbdr_cs_01](./pics/demo_pbdr_cs_02.gif)
 
