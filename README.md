@@ -1,6 +1,6 @@
 # There are two demonstrations (GIF animation) next
 
-- All packages are available on CRAN and can run on major platforms including (Solaris and Microsoft Windows)
+- All source or binary packages are available on CRAN and can run on major platforms including (**Mac OSX**, **Solaris** and **Microsoft Windows**)
 
 1. pbdR client/server using `pbdZMQ` + `remoter` (+ `getPass` + `sodium`)
 ![demo_pbdr_cs_01](./pics/demo_pbdr_cs_01.gif)
