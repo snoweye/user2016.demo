@@ -10,9 +10,9 @@
 
 ### Advantages of pbdR Client/Server
 - No need to setup X11 nor forwarding
-- No need to setup httpd nor htt\* whatever
+- No need to setup httpd nor htt\* whatever services
 - No need to know html\* nor js
-- No need to open browser.
+- No need to open a web browser
 
 ### Limitations of pbdR Client/Server
 - Too simple, you must speak R ...
@@ -21,7 +21,7 @@
 ### Some Good News
 - Allow to run most R packages (almost nothing change nor reimplementation)
 - All source or binary packages are available on CRAN.
-- Allow torun on major OSs including: **Mac OSX**, **Solaris** and **Microsoft Windows**.
+- Allow to run on major OSs including: **Mac OSX**, **Solaris** and **Microsoft Windows**.
 - Allow to run across different systems
 - Extendable to any out-of-core backend
 - Password protected (masked as well)
