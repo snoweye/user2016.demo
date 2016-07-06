@@ -1,3 +1,10 @@
+### Interactive Terabytes with pbdR
+
+The demos and slides were prepared for my talk
+"[Interactive Terabytes with pbdR](http://schedule.user2016.org/event/7BRX/interactive-terabytes-with-pbdr)"
+given in [useR! 2016](http://user2016.org/) conference at Stanford CA, USA.
+
+
 ### There are two demonstrations (GIF animation) next
 
 1. pbdR client/server using `pbdZMQ` + `remoter` (+ `getPass` + `sodium`)
