@@ -1,6 +1,6 @@
-### Interactive Terabytes with pbdR
+# Interactive Terabytes with pbdR
 
-The demos and slides were prepared for my talk
+The demos and [slides](https://github.com/snoweye/user2016.demo/blob/master/user2016_pbdr_wcc.pptx) were prepared for my talk
 "[Interactive Terabytes with pbdR](http://schedule.user2016.org/event/7BRX/interactive-terabytes-with-pbdr)"
 given in [useR! 2016](http://user2016.org/) conference at Stanford CA, USA.
 
